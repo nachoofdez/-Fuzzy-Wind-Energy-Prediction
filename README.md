@@ -1,5 +1,5 @@
 # Fuzzy Logic Energy Prediction Model for Wind Farms
-This repository presents a fuzzy logic-based predictive model for wind farm energy production, addressing the significance of wind energy, its prediction, integration into the electrical grid, and market price control. The model utilizes Fuzzy Cognitive Maps (FCM) and fuzzy inference systems to predict short-term energy fluctuations in wind farms.
+This repository presents a fuzzy logic-based predictive model for wind farm energy production, addressing the significance of wind energy, its prediction, integration into the electrical grid, and market price control. The model utilizes Fuzzy C-Means (FCM) and fuzzy inference systems to predict short-term energy fluctuations in wind farms.
 
 ## Content
 - Presentation_Lógica_Difusa.pdf: Beamer presentation outlining theoretical foundations, practical implementation, and results.
